@@ -1,0 +1,22 @@
+.btnList {
+  margin-left: 20px;
+}
+
+.btn {
+  background-color: rgb(76 217 67);
+  color: black;
+  cursor: pointer;
+  border: none;
+
+  margin-left: 20px;
+  padding: 6px;
+  border-radius: 10px;
+  transition-duration: 300ms;
+  text-transform: capitalize;
+}
+
+.btn:hover {
+  background-color: rgb(246, 92, 3);
+  color: white;
+  transform: scale(1.25);
+}
